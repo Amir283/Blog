@@ -1,0 +1,14 @@
+.index {
+    padding-left: 0;
+    list-style-type: none;
+}
+h1 {
+    font-family: 'Yellowtail';
+     color: purple;
+     size: 60px;
+}
+h3 {
+
+    font-family: 'Fondamento';
+    color: rebeccapurple;
+}
